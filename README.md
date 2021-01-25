@@ -3,14 +3,26 @@ Practica08 – Laberinto VR
 
  	FORMATO DE INFORME DE PRÁCTICA DE LABORATORIO / TALLERES / CENTROS DE SIMULACIÓN – PARA ESTUDIANTES
 
-CARRERA: Computación 	ASIGNATURA: Programación Hipermedial
-NRO. PRÁCTICA:	8	TÍTULO PRÁCTICA: Desarrollo de una aplicación de realidad virtual usando la herramienta Unity y desplegada en un dispositivo móvil Android.
+CARRERA: Computación 	   
+
+ASIGNATURA: Programación Hipermedial
+
+NRO. PRÁCTICA:	8	
+
+TÍTULO PRÁCTICA: Desarrollo de una aplicación de realidad virtual usando la herramienta Unity y desplegada en un dispositivo móvil Android.
+
 OBJETIVO ALCANZADO:
+
 •	Experimenta con aplicaciones de realidad virtual. 
+
 •	Experimenta con aplicaciones de realidad aumentada. 
+
 •	Distingue la diferencia entre tecnologías de realidad virtual y realidad aumentada.
+
 ACTIVIDADES DESARROLLADAS
+
 Github: DomenicaC
+
 Link: https://github.com/DomenicaC/Practica08-Laberinto-VR.git 
 
 
